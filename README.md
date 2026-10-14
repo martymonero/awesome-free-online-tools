@@ -60,6 +60,7 @@ A curated list of free, browser-based tools that do one thing well — for devel
 - **[collage.tools](https://collage.tools)** — Grid collages, seamless Instagram carousels, before/after sliders and moodboards with color-palette extraction.
 - **[favicon.tools](https://favicon.tools)** — Generate a full favicon set from an image, emoji or text, convert an existing logo, or audit what a live site serves.
 - **[Arabify](https://arabify.io)** — Arabic calligraphy generator and logo maker with authentic Kufic, Naskh, Diwani and Nastaliq styles.
+- **[Cicada](https://hexenwerkzeug.com/tools/cicada)** — Browser CAD for 2D drafting (snap, trim, offset, dimensions, layers) that opens DXF and native DWG from AutoCAD 2.1 to 2018 and exports DXF R2018 and SVG, with nothing uploaded and no sign-up.
 
 ## PDF & files
 
